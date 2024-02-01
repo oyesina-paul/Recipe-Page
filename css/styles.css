@@ -1,0 +1,104 @@
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    body {
+        background-color: hsl(30, 54%, 90%);
+    }
+
+    .container {
+        background-color: white;
+        width: 70%;
+        max-width: 400px;
+        padding: 1.5em;
+        border-radius: 1em;
+        margin: 3em auto;
+    }
+
+    img {
+        margin: 0;
+        max-width: 100%;
+        border-radius: 4%
+    }
+
+     .Preparation {
+        background-color: hsl(330, 100%, 98%);
+        line-height: 1.5;
+        padding: 0.5em;
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    h1 {
+        font-family: 'Young Serif', serif;
+        font-weight: 400;
+    }
+
+    h3 {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        color: hsl(332, 51%, 32%);
+    }
+
+    h2 {
+       color:hsl(14, 45%, 36%); 
+       font-family: 'Young Serif', serif;
+       font-weight: 400;
+       font-size: 20px;
+    }
+
+    .Ingredients {
+        line-height: 1.5;
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    hr {
+        border-color: hsl(330, 100%, 98%)
+    }
+
+    .Instructions {
+        line-height: 1.2;
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 12px;
+    }
+
+    p {
+        font-family: 'Outfit', sans-serif;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .bolden {
+        font-weight: 700;
+    }
+
+    .nutrients {
+        font-family: 'Outfit', sans-serif;
+        padding-right: 10em;
+    }
+
+    .weightcolor {
+        color:hsl(14, 45%, 36%);
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+    }
+
+    .table {
+        border-collapse: separate;
+        border-spacing: 1em;
+    }
+
+    table >tbody > tr:not(:last-of-type) > td {
+        border-bottom: 1px solid  hsl(30, 54%, 90%);
+    }
+
+
+   
+
+
+ 
+   
+  
